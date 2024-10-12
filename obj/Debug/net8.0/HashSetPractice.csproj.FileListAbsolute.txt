@@ -1,0 +1,14 @@
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\HashSetPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\HashSetPractice.AssemblyInfoInputs.cache
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\HashSetPractice.AssemblyInfo.cs
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\HashSetPractice.csproj.CoreCompileInputs.cache
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\bin\Debug\net8.0\HashSetPractice.exe
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\bin\Debug\net8.0\HashSetPractice.deps.json
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\bin\Debug\net8.0\HashSetPractice.runtimeconfig.json
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\bin\Debug\net8.0\HashSetPractice.dll
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\bin\Debug\net8.0\HashSetPractice.pdb
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\HashSetPractice.dll
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\refint\HashSetPractice.dll
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\HashSetPractice.pdb
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\HashSetPractice.genruntimeconfig.cache
+C:\Users\mc120\source\repos\HashSetPractice\HashSetPractice\obj\Debug\net8.0\ref\HashSetPractice.dll
